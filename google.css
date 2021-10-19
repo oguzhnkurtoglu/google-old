@@ -1,0 +1,62 @@
+.container  {
+
+    background-color: #EEEEEE ;
+    margin: 0px 80px;
+}
+
+.google {
+
+
+    margin-top: 200px;
+    text-align: center;
+}
+.searchbox  {
+    text-align: center;
+    
+   
+   }
+
+h3 {
+    margin : 5px 0 3px;
+
+}
+
+.arama    {
+    text-align: center;
+    margin: 10px 0px 30px;
+    padding-bottom: 20px;
+     }
+
+.blokla {       
+    
+    background-color: rgb(7, 211, 218); 
+
+    
+}
+
+ul
+{   
+    padding: 0px 50px;
+    list-style: none;
+        
+    
+    
+}
+
+.boyama {
+    background-color: #62B3AA;  
+    display: inline-flex   ;
+    margin: 0px 500px;
+    padding: 0px 50px;
+}
+
+
+.butonz  
+{
+    padding: 10px 10px 0 10px ;
+
+}
+
+p {
+    text-align: center;
+}
